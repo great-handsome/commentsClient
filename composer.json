@@ -12,6 +12,7 @@
 			"type": "package",
 			"package": {
 				"name": "great-handsome/comments-client",
+				"version": "dev-master",
 				"source": {
 					"url": "https://github.com/great-handsome/commentsClient.git",
 					"type": "git",
