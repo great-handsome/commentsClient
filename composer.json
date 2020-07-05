@@ -22,10 +22,7 @@
 		}
 	],
 	"minimum-stability": "dev",
-	"require-dev": {
-        "phpunit/phpunit": "^6.5"
-    },
-	"require-master": {
+	"require": {
         "phpunit/phpunit": "^6.5"
     },
 	"autoload": {
