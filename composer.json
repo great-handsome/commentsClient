@@ -24,6 +24,9 @@
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
+	"require-master": {
+        "phpunit/phpunit": "^6.5"
+    },
 	"autoload": {
 		"psr-4": {
 			"CommentsClient\\": "\\",
