@@ -1,4 +1,26 @@
 {
+	"name": "greathandsome/commentsclient",
+    "description": "Comments Client",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "handsome@sibmail.com"
+        }
+    ],
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "great-handsome/comments-client",
+				"version": "master",
+				"source": {
+					"url": "https://github.com/great-handsome/commentsClient.git",
+					"type": "git",
+					"reference": "origin/master"
+				}
+			}
+		}
+	],
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
