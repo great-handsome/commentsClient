@@ -23,7 +23,7 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-        "phpunit/phpunit": "^6.5"
+        "phpunit/phpunit": ">=6.5"
     },
 	"autoload": {
 		"psr-4": {
