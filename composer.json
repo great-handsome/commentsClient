@@ -12,15 +12,18 @@
 			"type": "package",
 			"package": {
 				"name": "great-handsome/comments-client",
-				"version": "master",
+				"version": "dev-master",
 				"source": {
 					"url": "https://github.com/great-handsome/commentsClient",
 					"type": "git",
-					"reference": "master"
+					"reference": "dev-master"
 				}
 			}
 		}
 	],
+	"require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
 	"require-master": {
         "phpunit/phpunit": "^6.5"
     },
